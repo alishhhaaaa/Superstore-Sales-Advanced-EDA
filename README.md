@@ -34,4 +34,4 @@ uncovering 10+ actionable business insights using Python, Pandas, Matplotlib and
 - Box plots
 
 ## Author
-Alisha Naaz | B.Tech Data Science | IKGPTU 
+Alisha Naaz | B.Tech Data Science | IKGPTU Mohali,Punjab
